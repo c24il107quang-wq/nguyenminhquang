@@ -10,6 +10,6 @@ Languages: HTML5, CSS3, JavaScript, Python
 - Calculator: シンプルな電卓アプリケーション
 - JavaScript Practice: 基本的なアルゴリズムの実装練習
 
- 連絡先 (Liên hệ)
+ 連絡先 
 - GitHub: [c24il107quang-wq](https://github.com/c24il107quang-wq)
 - Email: (c24il107.quang@gmail.com)
