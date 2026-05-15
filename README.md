@@ -10,4 +10,4 @@ I am an IT student in Japan.
 - Calculator
 - JavaScript practice
 ## GitHub
-https://github.com/c24il107quang-wq
+[https://github.com/c24il107quang-wq](https://github.com/c24il107quang-wq/nguyenminhquang.git)
