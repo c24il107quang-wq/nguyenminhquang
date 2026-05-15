@@ -1,91 +1,54 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta charset="UTF-8">
-<title>My Portfolio</title>
-
-<style>
-
-body{
-    font-family: Arial;
-    background-color:#f4f4f4;
-    text-align:center;
-    padding:30px;
-}
-
-.container{
-    background:white;
-    padding:30px;
-    border-radius:10px;
-    width:70%;
-    margin:auto;
-}
-
-img{
-    width:150px;
-    border-radius:50%;
-}
-
-h1{
-    color:#333;
-}
-
-.skill{
-    display:inline-block;
-    background:#0078ff;
-    color:white;
-    padding:10px;
-    margin:5px;
-    border-radius:5px;
-}
-
-.project{
-    background:#eeeeee;
-    margin:10px;
-    padding:15px;
-    border-radius:5px;
-}
-
-</style>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>グエン・ミン・クアン | ポートフォリオ</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 </head>
-
 <body>
 
-<div class="container">
+    <header>
+        <div class="container">
+            <h1>NGUYEN MINH QUANG</h1>
+            <p>日本でITを学ぶ学生のポートフォリオ</p>
+        </div>
+    </header>
 
-<img src="photo.jpg">
+    <main class="container">
+        <section id="about">
+            <h2>自己紹介</h2>
+            <p>はじめまして。日本でITを勉強しているクアンと申します。プログラミングを通じて、人々の生活を豊かにするサービスを作りたいと考えています。</p>
+        </section>
 
-<h1>NGUYEN MINH QUANG</h1>
+        <section id="skills">
+            <h2>スキル</h2>
+            <ul>
+                <li>HTML / CSS</li>
+                <li>JavaScript</li>
+                <li>Python</li>
+            </ul>
+        </section>
 
-<p>
-奈良コンピュータ専門学校でITを勉強しています。<br>
-将来は日本でITエンジニアとして働きたいです。
-</p>
+        <section id="projects">
+            <h2>制作物</h2>
+            <div class="project-card">
+                <h3>電卓アプリ</h3>
+                <p>HTML/CSS/JSを使用したシンプルな計算機です。</p>
+            </div>
+        </section>
 
-<h2>Skills</h2>
+        <section id="contact">
+            <h2>連絡先</h2>
+            <p>メールでお気軽にご連絡ください。</p>
+            <a href="mailto:your-email@example.com" class="btn">メールを送る</a>
+        </section>
+    </main>
 
-<div class="skill">HTML</div>
-<div class="skill">CSS</div>
-<div class="skill">JavaScript</div>
-<div class="skill">PHP</div>
-<div class="skill">Python</div>
-
-<h2>Projects</h2>
-
-<div class="project">
-自己紹介サイト
-</div>
-
-<div class="project">
-簡単な計算機アプリ
-</div>
-
-<div class="project">
-ログインフォーム
-</div>
-
-</div>
+    <footer>
+        <p>&copy; 2026 NGUYEN MINH QUANG. All Rights Reserved.</p>
+    </footer>
 
 </body>
 </html>
