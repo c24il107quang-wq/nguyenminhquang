@@ -5,7 +5,7 @@
 Languages: HTML5, CSS3, JavaScript, Python
  Git, GitHub, VS Code
 
- 制作実績 (Sản phẩm đã làm)
+ 制作実績
 - Greeting Page: JavaScriptを用いた動的な挨拶ページ
 - Calculator: シンプルな電卓アプリケーション
 - JavaScript Practice: 基本的なアルゴリズムの実装練習
