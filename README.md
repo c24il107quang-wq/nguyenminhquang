@@ -1,5 +1,5 @@
 グエン・ミン・クアン (NGUYEN MINH QUANG)
-自己紹介
+プロフィール
 日本でITを専攻している留学生です。現在、フルスタックエンジニアを目指して、Web開発の技術を中心に学習しています。
 スキル
 Languages: HTML5, CSS3, JavaScript, Python
@@ -7,6 +7,7 @@ Languages: HTML5, CSS3, JavaScript, Python
 
  制作実績
 - Greeting Page: JavaScriptを用いた動的な挨拶ページ
+- Calculator App：HTML・CSS・JavaScriptを使用した簡単な電卓アプリ
 - Calculator: シンプルな電卓アプリケーション
 - JavaScript Practice: 基本的なアルゴリズムの実装練習
 
